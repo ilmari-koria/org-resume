@@ -1,0 +1,47 @@
+#+title: Ilmari Koria Résumé -- Updated {{{time(%b %e %Y)}}}
+#+author: Ilmari Koria
+#+setupfile: resume-setup
+#+export_file_name: /home/ilmari/my-files/websites/ilmarikoria/ilmari-koria-resume
+
+* Ilmari Koria
+@@latex:\pagestyle{fancy}@@
+
+#+begin_center
+Résumé: Updated \today{} --- [[mailto:ilmarikoria@posteo.net][ilmarikoria@posteo.net]] --- [[https://linkedin.com/in/ilmari-koria][LinkedIn]] --- @@latex:\chtex{華文姓名：}\ruby{\chtex{柯}}{Kē}\ruby{\chtex{萬}}{Wàn}\ruby{\chtex{里}}{lǐ}@@
+#+end_center
+
+** About
+London-based Content Analyst and University of London graduate. Comprehensive spoken and written language competence and digital literacy, with concentration on free open-source tools and implementations. Proven communication skills, team working ability and leadership initiative in a range of administrative, service and volunteer roles.
+** Experience
+@@latex:\nobulletlist@@
+*** Bloomsbury Publishing Plc, Digital Development \hfill London 
+- Content Analyst \hfill Jul 2023 -- Present
+  - Quality assurance (QA), testing and management of the platform’s XML content.
+  - Checking XML coded texts against source editions for structural and textual errors.
+  - Following automated and manual routines and checklists systematically in order to identify and rectify XML errors.
+  - Inputting and checking any required metadata and taxonomy indexing to aid discoverability of XML texts.
+  - Testing online content on Bloomsbury platforms to identify data/platform issues.
+  - Analysing content and contributing to mark-up guidelines.
+  - Managing the workflow from conversion to upload for content sets on existing platforms.
+
+** Education
+@@latex:\nobulletlist@@
+- 2022 \mytab *National Chengchi University*, Chinese Language Course (nine months via scholarship) \hfill Taipei
+- 2020 \mytab *King's College London*, Master of Arts in Digital Humanities \hfill London
+- 2019 \mytab *SOAS University of London*, Postgraduate Diploma \hfill London 
+- 2018 \mytab *University of Kent*, Bachelor of Arts with First Class Honours \hfill Canterbury
+** Leadership
+@@latex:\bulletlist@@
+ - 2019 \mytab *Student Society Founder and President*, SOAS University of London \hfill London
+ - 2018 \mytab *Student Peer Mentor*, University of Kent \hfill Canterbury
+ - 2018 \mytab *Student Ambassador*, University of Kent \hfill Canterbury
+
+** Technical Tools
+@@latex:\bulletlist@@
+- *Markup*: \texttt{XML, HTML, CSS, \LaTeX} --- *Scripting and Querying*: =Lisp, Python, XSL/XSLT, XPath, XQuery= --- *Development*: =GNU/Linux (Debian), Bash, PowerShell, OpenAI, BaseX, Git, oXygen, GNU Emacs=.
+
+** Language Proficiency
+@@latex:\nobulletlist@@
+- *English*: Advanced --- *Finnish*: Advanced --- *Mandarin*: High-Intermediate --- *Cantonese*: Conversational.
+
+
