@@ -7,11 +7,11 @@
 @@latex:\pagestyle{fancy}@@
 
 #+begin_center
-Résumé: Updated \today{} --- [[mailto:ilmarikoria@posteo.net][ilmarikoria@posteo.net]] --- [[https://linkedin.com/in/ilmari-koria][LinkedIn]] --- @@latex:\chtex{華文姓名：}\ruby{\chtex{柯}}{Kē}\ruby{\chtex{萬}}{Wàn}\ruby{\chtex{里}}{lǐ}@@
+Résumé: Updated \today{} --- [[mailto:ilmarikoria@posteo.net][ilmarikoria@posteo.net]] --- [[https://uk.linkedin.com/in/ilmari-koria-3151a5291][LinkedIn]] --- @@latex:\chtex{華文姓名：}\ruby{\chtex{柯}}{Kē}\ruby{\chtex{萬}}{Wàn}\ruby{\chtex{里}}{lǐ}@@
 #+end_center
 
 ** About
-London-based Content Analyst and University of London graduate. Comprehensive spoken and written language competence and digital literacy, with concentration on free open-source tools and implementations. Proven communication skills, team working ability and leadership initiative in a range of administrative, service and volunteer roles.
+London-based X-standards Content Analyst and University of London graduate. Comprehensive spoken and written language competence and digital literacy, with concentration on free open-source tools and implementations. Proven communication skills, team working ability and leadership initiative in a range of administrative, service and volunteer roles.
 ** Experience
 @@latex:\nobulletlist@@
 *** Bloomsbury Publishing Plc, Digital Development \hfill London 
@@ -38,10 +38,8 @@ London-based Content Analyst and University of London graduate. Comprehensive sp
 
 ** Technical Tools
 @@latex:\bulletlist@@
-- *Markup*: \texttt{XML, HTML, CSS, \LaTeX} --- *Scripting and Querying*: =Lisp, Python, XSL/XSLT, XPath, XQuery= --- *Development*: =GNU/Linux (Debian), Bash, PowerShell, OpenAI, BaseX, Git, oXygen, GNU Emacs=.
+- *Markup*: XML, HTML, CSS, \LaTeX{} --- *Scripting and Querying*: Lisp, Python, XSL/XSLT, XPath, XQuery --- *Development*: GNU/Linux (Debian), Bash, PowerShell, OpenAI, BaseX, Git, oXygen, GNU Emacs.
 
 ** Language Proficiency
 @@latex:\nobulletlist@@
 - *English*: Advanced --- *Finnish*: Advanced --- *Mandarin*: High-Intermediate --- *Cantonese*: Conversational.
-
-
