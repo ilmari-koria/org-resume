@@ -1,0 +1,14 @@
+#+latex_class: article
+#+latex_class_options: [a4paper,11pt]
+#+latex_compiler: xelatex
+#+options: title:nil toc:nil date:nil num:t ^:{} todo:nil ':t ":t 
+#+latex_header: \usepackage[T1]{fontenc}
+#+latex_header: \usepackage[utf8]{inputenc}
+#+latex_header: \usepackage{xeCJK}
+#+latex_header: \setCJKmainfont{AR PL UMing TW}
+#+latex_header: \setCJKsansfont{AR PL UKai TW}
+#+latex_header: \usepackage{zhnumber}
+#+latex_header: \newcommand{\minguoyear}{\the\numexpr\year-1911\relax}
+#+latex_header: \newcommand{\minguodate}{中華民國\minguoyear{}年\the\month{}月\the\month{}日} 
+#+latex_header: \usepackage[chinese, provide=*]{babel}
+
