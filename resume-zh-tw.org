@@ -3,6 +3,7 @@
 #+setupfile: resume-setup-zh-tw
 #+export_file_name: /home/ilmari/my-files/websites/ilmarikoria/ilmari-koria-resume-zh-tw
 
+
 * =xelatex-export=                                                                                  :noexport:
 #+begin_src elisp
 (setq org-latex-pdf-process '(
@@ -13,35 +14,35 @@
 ))
 #+end_src
 
-* 柯萬里
+* 柯萬里 Ilmari Koria 
 
 #+begin_center
-履歷（最新版）： \minguodate{} --- [[mailto:ilmarikoria@posteo.net][ilmarikoria@posteo.net]] --- [[https://uk.linkedin.com/in/ilmari-koria-3151a5291][LinkedIn]] 
+履歷（最新版）： \zhtoday --- [[mailto:ilmarikoria@posteo.net][ilmarikoria@posteo.net]] --- [[https://uk.linkedin.com/in/ilmari-koria-3151a5291][LinkedIn]] 
 #+end_center
 
-** About
-London-based X-standards content markup technologies professional and University of London graduate. Comprehensive spoken and written language competence and digital literacy, with concentration on free open-source tools and implementations. Proven communication skills, team working ability and leadership initiative in a range of administrative, service and volunteer roles.
-** Experience
-*** Bloomsbury Publishing Plc, Digital Development \hfill London 
-- /Content Analyst/ \hfill Jul 2023 -- Present
-  - Quality assurance (QA), testing and management of the platform’s XML content.
-  - Checking XML coded texts against source editions for structural and textual errors.
-  - Following automated and manual routines and checklists systematically in order to identify and rectify XML errors.
-  - Inputting and checking any required metadata and taxonomy indexing to aid discoverability of XML texts.
-  - Testing online content on Bloomsbury platforms to identify data/platform issues.
-  - Analysing content and contributing to mark-up guidelines.
-  - Managing the workflow from conversion to upload for content sets on existing platforms.
-** Education
-- 2022 \mytab *National Chengchi University*, Mandarin Language Course (nine months via scholarship) \hfill Taipei
-- 2020 \mytab *King's College London*, Master of Arts in Digital Humanities \hfill London
-- 2019 \mytab *SOAS University of London*, Postgraduate Diploma \hfill London 
-- 2018 \mytab *University of Kent*, Bachelor of Arts with First Class Honours \hfill Canterbury
-** Leadership
- - 2019 \mytab *Student Society Founder and President*, SOAS University of London \hfill London
- - 2018 \mytab *Student Peer Mentor* and *Student Ambassador*, University of Kent \hfill Canterbury
+** 摘要
+倫敦基礎的XML標準內容標記技術專業人士，倫敦大學畢業生。全面的口語和書寫語言能力及數字素養，專注於自由開源工具和實施。在各種行政、服務和志願者角色中，證明了溝通技巧、團隊合作能力和領導才能。
+** 經歷
+*** 布魯姆斯伯里出版社（Bloomsbury Publishing Plc.） \hfill 倫敦 
+- 「XML資料庫分析者」 （Content Analyst） \hfill 6月 2023 -- 繼續
+  - 質量保證（QA），測試以及管理平台的 XML 內容。
+  - 核對 XML 編碼文本與源版本，以檢查結構和文本錯誤。
+  - 系統地遵循自動化和手動程序及清單，以識別和糾正 XML 錯誤。
+  - 輸入並檢查所需的元數據和分類索引，以幫助發現 XML 文本。
+  - 測試布盧姆斯伯里平台上的在線內容，以識別數據/平台問題。
+  - 分析內容並貢獻於標記指南。
+  - 管理從轉換到上傳的工作流程，用於現有平台上的內容集。
+** 學歷
+- 2022 \mytab \textbf{國立政治大學}，華語課程（獎學金） \hfill 臺北
+- 2020 \mytab \textbf{倫敦大學國王學院}，數為人文碩士 \hfill 倫敦
+- 2019 \mytab \textbf{倫敦大學亞非學院}，深造文憑 \hfill 倫敦
+- 2018 \mytab \textbf{肯特大學}，文學學士（一級榮譽學位） \hfill 坎特伯雷
+** 課外活動
+ - 2019 \mytab \textbf{學生會創辦人兼主席}，倫敦大學亞非學院 \hfill 倫敦
+ - 2018 \mytab \textbf{學生同儕導師和學生大使}， 肯特大學 \hfill 坎特伯雷
 ** Technical Training                                                                              :noexport:
 - 2023 \mytab Crane Softwrights Ltd. /Practical Transformation Using XSLT and XPath/ (24 training hrs.) [certificate]
-** Technical Tools
-- *Markup*: XML, HTML, CSS, \LaTeX{} --- *Scripting and Querying*: Lisp, Python, XSL/XSLT, XPath, XQuery --- *Development*: GNU/Linux (Debian), Bash, PowerShell, OpenAI, BaseX, Git, oXygen, GNU Emacs, Atlassian (Jira, Trello).
-** Language Proficiency
-- *English*: Advanced --- *Finnish*: Advanced --- *Mandarin*: Professional competency --- *Cantonese*: Conversational.
+** 技術能力
+- \textbf{標記式語言}： XML, HTML, CSS, \LaTeX{} --- \textbf{手稿語言和查詢語言}： Elisp, Python, XSL/XSLT, XPath, XQuery --- \textbf{軟體開發工具}： GNU/Linux (Debian), Bash, PowerShell, OpenAI, BaseX, Git, oXygen, GNU Emacs, Atlassian (Jira, Trello).
+** 語言能力
+- \textbf{英文}： 高級 --- \textbf{芬蘭語}： 高級 --- \textbf{國語}（普通話）：中高級 --- \textbf{廣東話}：初中及.
