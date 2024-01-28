@@ -51,8 +51,11 @@
 
 \usepackage[british]{babel}
 
-\newcommand{\greyunderline}[2]{\href{#1}{\color{gray}\underline{#2}}}
-\cfoot{\color{gray}\textcolor{gray}{\footnotesize{Otto Ilmari Koria (\greyunderline{https://www.ilmarikoria.xyz}{www.ilmarikoria.xyz}) --- Résumé: Updated \today{} (\greyunderline{https://www.git.ilmarikoria.xyz/?p=resume.git;a=summary}{Source Git}) --- References available on request.}}}
+\usepackage{soul}
+\setul{1pt}{.4pt}
+
+\newcommand{\greyunderline}[2]{\href{#1}{\color{gray}\ul{#2}}}
+\cfoot{\color{gry}\textcolor{gray}{\footnotesize{Otto Ilmari Koria (\greyunderline{https://www.ilmarikoria.xyz}{www.ilmarikoria.xyz}) ---Résumé: Updated \today{} (\greyunderline{https://www.git.ilmarikoria.xyz/?p=resume.git;a=summary}{Source Git}) --- References available on request.}}}
 
 \usepackage{CJKutf8}
 \newcommand{\chquo}[1]{\begin{CJK*}{UTF8}{bkai}#1\end{CJK*}}
@@ -61,3 +64,5 @@
 \usepackage{ruby}
 \renewcommand\rubysize{0.5}
 \renewcommand{\rubysep}{0}
+
+

@@ -11,7 +11,7 @@ Résumé: Updated \today{} --- [[mailto:ilmarikoria@posteo.net][ilmarikoria@post
 #+end_center
 
 ** About
-London-based X-standards content markup technologies professional and University of London graduate. Comprehensive spoken and written language competence and digital literacy, with concentration on free open-source tools and implementations. Proven communication skills, team working ability and leadership initiative in a range of administrative, service and volunteer roles.
+London-based X-standards content markup technologies professional and University of London graduate. Comprehensive spoken and written language competence and digital literacy, with concentration in free open-source tools and implementations. Proven communication skills, team working ability and leadership initiative in a range of administrative, service and volunteer roles.
 ** Experience
 @@latex:\nobulletlist@@
 *** Bloomsbury Publishing Plc, Digital Development \hfill London 
@@ -31,9 +31,14 @@ London-based X-standards content markup technologies professional and University
 ** Leadership
  - 2019 \mytab *Student Society Founder and President*, SOAS University of London \hfill London
  - 2018 \mytab *Student Peer Mentor* and *Student Ambassador*, University of Kent \hfill Canterbury
-** Technical Training                                                                              :noexport:
+** Technical Training                                             :noexport:
+# upcoming
 - 2023 \mytab Crane Softwrights Ltd. /Practical Transformation Using XSLT and XPath/ (24 training hrs.) [certificate]
 ** Technical Tools
-- *Markup*: XML, HTML, CSS, \LaTeX{} --- *Scripting and Querying*: Lisp, Python, XSL/XSLT, XPath, XQuery --- *Development*: GNU/Linux (Debian), Bash, PowerShell, OpenAI, BaseX, Git, oXygen, GNU Emacs, Atlassian (Jira, Trello).
+- *Markup, styling and schema*: XML, HTML, CSS, \LaTeX{}, XSL/XSLT, Schematron --- *Scripting and querying*: Python, XPath, XQuery --- *Development*: GNU/Linux (Debian, Ubuntu), Bash, PowerShell, OpenAI (ChatGPT), BaseX, Git (and GitHub), oXygen, GNU Emacs, Atlassian (Jira, Trello).
 ** Language Proficiency
-- *English*: Advanced --- *Finnish*: Advanced --- *Mandarin*: Professional competency --- *Cantonese*: Conversational.
+- *English*: Advanced --- *Finnish*: Advanced --- *Mandarin*: High-intermediate --- *Cantonese*: Conversational.
+
+
+
+
