@@ -37,7 +37,7 @@ London-based X-standards content markup technologies professional and University
 ** Technical Tools
 - *Markup, styling and schema*: XML, HTML, CSS, \LaTeX{}, XSL/XSLT, Schematron --- *Scripting and querying*: Python, XPath, XQuery --- *Development*: GNU/Linux (Debian, Ubuntu), Bash, PowerShell, OpenAI (ChatGPT), BaseX, Git (and GitHub), oXygen, GNU Emacs, Atlassian (Jira, Trello).
 ** Language Proficiency
-- *English*: Advanced --- *Finnish*: Advanced --- *Mandarin*: High-intermediate --- *Cantonese*: Conversational.
+- *English*: advanced --- *Finnish*: advanced --- *Mandarin*: high-intermediate @@latex:\chquo{中高級}@@ --- *Cantonese*: basic-intermediate @@latex:\chquo{初中級}@@.
 
 
 

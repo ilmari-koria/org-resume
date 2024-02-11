@@ -4,13 +4,11 @@
 #+options: title:nil toc:nil date:nil num:t ^:{} todo:nil ':t ":t 
 #+latex_header: \usepackage[cm]{fullpage}
 #+latex_header: \usepackage[T1]{fontenc}
-#+latex_header: \usepackage[utf8]{inputenc}
 #+latex_header: \usepackage{xeCJK}
 #+latex_header: \setmainfont{Noto Serif CJK TC Light}
 #+latex_header: \setCJKmainfont{Noto Serif CJK TC Light}
 #+latex_header: \setCJKsansfont{AR PL UKai TW}
 #+latex_header: \usepackage{zhnumber}
-#+latex_header: \usepackage[chinese, provide=*]{babel}
 #+latex_header: \usepackage{xcolor}
 #+latex_header: \usepackage{hyperref}
 #+latex_header: \hypersetup{colorlinks,breaklinks,allcolors={blue}}

@@ -1,10 +1,10 @@
-#+title: 柯萬里 -- 履歷 -- \minguodate{}
+#+title: 柯萬里 -- 履歷 -- \zhtoday{}
 #+author: 柯萬里
 #+setupfile: resume-setup-zh-tw
 #+export_file_name: /home/ilmari/my-files/websites/ilmarikoria/ilmari-koria-resume-zh-tw
 
 
-* =xelatex-export=                                                                                  :noexport:
+* =xelatex-export=                                                 :noexport:
 #+begin_src elisp
 (setq org-latex-pdf-process '(
 "xelatex -shell-escape -interaction nonstopmode -output-directory %o %f"
@@ -21,10 +21,10 @@
 #+end_center
 
 ** 摘要
-倫敦基礎的XML標準內容標記技術專業人士，倫敦大學畢業生。全面的口語和書寫語言能力及數字素養，專注於自由開源工具和實施。在各種行政、服務和志願者角色中，證明了溝通技巧、團隊合作能力和領導才能。
+位於論敦的XML標準內容標記技術專家且倫敦大學畢業生。全面的口語和書寫語言能力及數字素養，專注於自由開源工具和實施。在各種行政、服務和志願者角色中，證明了溝通技巧、團隊合作能力和領導才能。
 ** 經歷
 *** 布魯姆斯伯里出版社（Bloomsbury Publishing Plc.） \hfill 倫敦 
-- 「XML資料庫分析者」 （Content Analyst） \hfill 6月 2023 -- 繼續
+- 「XML資料庫分析者」（Content Analyst） \hfill 6月 2023 -- 繼續
   - 質量保證（QA），測試以及管理平台的 XML 內容。
   - 核對 XML 編碼文本與源版本，以檢查結構和文本錯誤。
   - 系統地遵循自動化和手動程序及清單，以識別和糾正 XML 錯誤。
@@ -40,9 +40,12 @@
 ** 課外活動
  - 2019 \mytab \textbf{學生會創辦人兼主席}，倫敦大學亞非學院 \hfill 倫敦
  - 2018 \mytab \textbf{學生同儕導師和學生大使}， 肯特大學 \hfill 坎特伯雷
-** Technical Training                                                                              :noexport:
+** Technical Training                                             :noexport:
 - 2023 \mytab Crane Softwrights Ltd. /Practical Transformation Using XSLT and XPath/ (24 training hrs.) [certificate]
-** 技術能力
+** 技能
 - \textbf{標記式語言}： XML, HTML, CSS, \LaTeX{} --- \textbf{手稿語言和查詢語言}： Elisp, Python, XSL/XSLT, XPath, XQuery --- \textbf{軟體開發工具}： GNU/Linux (Debian), Bash, PowerShell, OpenAI, BaseX, Git, oXygen, GNU Emacs, Atlassian (Jira, Trello).
 ** 語言能力
 - \textbf{英文}： 高級 --- \textbf{芬蘭語}： 高級 --- \textbf{國語}（普通話）：中高級 --- \textbf{廣東話}：初中及.
+
+
+
