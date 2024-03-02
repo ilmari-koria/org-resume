@@ -16,13 +16,13 @@ London-based X-standards content markup technologies professional and University
 @@latex:\nobulletlist@@
 *** Bloomsbury Publishing Plc, Digital Development \hfill London 
 - /Content Analyst/ \hfill Jul 2023 -- Present
-  - Quality assurance (QA), testing and management of the platform’s XML content.
+  - Quality assurance (QA), testing and management of platform XML content.
   - Checking XML coded texts against source editions for structural and textual errors.
   - Following automated and manual routines and checklists systematically in order to identify and rectify XML errors.
   - Inputting and checking any required metadata and taxonomy indexing to aid discoverability of XML texts.
   - Testing online content on Bloomsbury platforms to identify data/platform issues.
   - Analysing content and contributing to mark-up guidelines.
-  - Managing the workflow from conversion to upload for content sets on existing platforms.
+  - Managing workflow from conversion to upload for content sets on existing platforms.
 ** Education
 - 2022 \mytab *National Chengchi University*, Mandarin Language Course (nine months via scholarship) \hfill Taipei
 - 2020 \mytab *King's College London*, Master of Arts in Digital Humanities \hfill London
@@ -35,9 +35,10 @@ London-based X-standards content markup technologies professional and University
 # upcoming
 - 2023 \mytab Crane Softwrights Ltd. /Practical Transformation Using XSLT and XPath/ (24 training hrs.) [certificate]
 ** Technical Tools
-- *Markup, styling and schema*: XML, HTML, CSS, \LaTeX{}, XSL/XSLT, Schematron --- *Scripting and querying*: Python, XPath, XQuery --- *Development*: GNU/Linux (Debian, Ubuntu), Bash, PowerShell, OpenAI (ChatGPT), BaseX, Git (and GitHub), oXygen, GNU Emacs, Atlassian (Jira, Trello).
+# consolidate this
+- *Markup, styling, schema*: XML, HTML, CSS, \LaTeX{}, XSL/XSLT, Schematron --- *Scripting and querying*: Python, XPath, XQuery --- *Development*: GNU/Linux (Debian, Ubuntu), shell (Bash, PowerShell), OpenAI (ChatGPT), BaseX, Git (and GitHub), oXygen, GNU Emacs, Atlassian (Jira, Trello).
 ** Language Proficiency
-- *English*: advanced --- *Finnish*: advanced --- *Mandarin*: high-intermediate @@latex:\chquo{中高級}@@ --- *Cantonese*: basic-intermediate @@latex:\chquo{初中級}@@.
+- *English*: advanced --- *Finnish*: advanced --- *Mandarin*: high-intermediate @@latex:\chtex{中高級}@@.
 
 
 
