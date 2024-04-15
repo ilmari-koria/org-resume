@@ -11,7 +11,7 @@
 \usepackage{lastpage}
 
 \usepackage{tabto}    
-\newcommand\mytab{\tab \hspace{-20em}}
+\newcommand\mytab{\tab \hspace{-22em}}
 
 \setlength{\parindent}{0}
 
@@ -21,11 +21,9 @@
 \input{glyphtounicode}
 \pdfgentounicode=1
 
-\usepackage{newtxtext}
-\usepackage{newtxmath}
-
 \usepackage[T1]{fontenc}
-\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+%\usepackage[utf8]{inputenc}
 
 \usepackage{microtype}
 
@@ -38,7 +36,7 @@
 \titleformat{\subsubsection}{\normalsize\bfseries}{0em}{0em}{}
 
 \titlespacing*{\section}{0em}{0em}{0em} %% left, above, below
-\titlespacing*{\subsection}{0em}{3em}{1em}
+\titlespacing*{\subsection}{0em}{3.5em}{1em}
 \titlespacing*{\subsubsection}{0em}{1.5em}{0em}
 
 \usepackage{enumitem}
@@ -57,14 +55,14 @@
 \setul{1pt}{.4pt}
 
 \newcommand{\greyunderline}[2]{\href{#1}{\color{gray}\ul{#2}}}
-\cfoot{\color{gry}\textcolor{gray}{\footnotesize{Otto Ilmari Koria (\greyunderline{https://www.ilmarikoria.xyz}{www.ilmarikoria.xyz}) --- Résumé: Updated \today{} (\greyunderline{https://www.git.ilmarikoria.xyz/?p=resume.git;a=summary}{Source Git}) --- References available on request.}}}
+\cfoot{\color{gry}\textcolor{gray}{\normalsize{Otto Ilmari Koria (\greyunderline{https://www.ilmarikoria.xyz}{www.ilmarikoria.xyz}) --- Résumé: Updated \today{} --- References available on request.}}}
 
 \usepackage{CJKutf8}
 \newcommand{\chquo}[1]{\begin{CJK*}{UTF8}{bkai}#1\end{CJK*}}
 \newcommand{\chtex}[1]{\begin{CJK*}{UTF8}{bsmi}#1\end{CJK*}}
 
 \usepackage{ruby}
-\renewcommand\rubysize{0.5}
+\renewcommand\rubysize{0.38}
 \renewcommand{\rubysep}{0}
 
 
