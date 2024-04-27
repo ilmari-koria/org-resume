@@ -35,7 +35,7 @@ London-based X-standards content markup technologies professional and University
 # upcoming
 - 2023 \mytab Crane Softwrights Ltd. /Practical Transformation Using XSLT and XPath/ (24 training hrs.) [certificate]
 ** Technical Tools
-- *XML:* XSL/XSLT, XPath, XQuery, Schematron, BaseX, oXygen --- *Markup & Scripting:* HTML, CSS, \LaTeX{}, Python, shell (Bash, PowerShell) ---  *Development*: GNU/Linux (Debian, Ubuntu), Git, GNU Emacs, Atlassian (Jira, Trello).
+- *XML:* XSL/XSLT, XPath, XQuery, Schematron, BaseX, oXygen, DocBook --- *Markup & Scripting:* HTML, CSS, \LaTeX{}, Python, shell (Bash, PowerShell) ---  *Development*: GNU/Linux (Debian, Ubuntu), Git, GNU Emacs, Atlassian (Jira, Trello).
 ** Language Proficiency
 - *English*: advanced --- *Finnish*: advanced --- *Mandarin:* high-intermediate --- *Cantonese*: conversational.
 
