@@ -54,8 +54,12 @@
 \usepackage{soul}
 \setul{1pt}{.4pt}
 
-\newcommand{\greyunderline}[2]{\href{#1}{\color{gray}\ul{#2}}}
-\cfoot{\color{gry}\textcolor{gray}{\normalsize{Otto Ilmari Koria (\greyunderline{https://www.ilmarikoria.xyz}{www.ilmarikoria.xyz}) --- Résumé: Updated \today{} --- References available on request.}}}
+\newcommand{\grayunderline}[2]{\href{#1}{\color{gray}\ul{#2}}}
+\newcommand{\graylink}[2]{\href{#1}{\textcolor{gray}{\underline{\textcolor{gray}{#2}}}}}
+
+\cfoot{\color{gray}\textcolor{gray}{\normalsize{
+	Otto Ilmari Koria (\grayunderline{https://www.ilmarikoria.xyz}{www.ilmarikoria.xyz}) --- Résumé: Updated \today{} --- References available on request.\\
+	Public Key: \texttt{\graylink{https://ilmarikoria.xyz/static/ilmari-koria-public-key.asc}{D8DA 85D0 4C6A BD1F 8DA4 2895 3E3B 85AB 3A8D FFD4}}}}}
 
 \usepackage{CJKutf8}
 \newcommand{\chquo}[1]{\begin{CJK*}{UTF8}{bkai}#1\end{CJK*}}
