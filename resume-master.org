@@ -1,7 +1,6 @@
 #+title: Ilmari Koria Résumé -- Updated {{{time(%b %e %Y)}}}
 #+author: Ilmari Koria
 #+setupfile: resume-setup
-#+export_file_name: /home/ilmari/my-files/blog/ilmarikoria/ilmari-koria-resume
 
 * Ilmari Koria
 @@latex:\pagestyle{fancy}@@
@@ -15,7 +14,6 @@ London-based X-standards content markup technologies professional and University
 
 ** Experience
 *** Bloomsbury Publishing Plc, Digital Development \hfill London
-# these should be specific achievements
 - /Content Analyst/ (XML) \hfill Jul 2023 -- Present
   - Quality assurance (QA), testing and management of platform XML content.
   - Checking XML coded texts against source editions for structural and textual errors.
@@ -32,11 +30,7 @@ London-based X-standards content markup technologies professional and University
 ** Leadership
  - 2019 \mytab *Student Society Founder and President*, SOAS University of London \hfill London
  - 2018 \mytab *Student Peer Mentor* and *Student Ambassador*, University of Kent \hfill Canterbury
-** Technical Training                                             :noexport:
-# upcoming
-- 2023 \mytab Crane Softwrights Ltd. /Practical Transformation Using XSLT and XPath/ (24 training hrs.) [certificate]
 ** Technical Tools
-# max two lines, every skill must be qualified
 - *XML:* XProc, XSL, XPath, XQuery, Schematron, BaseX, oXygen --- *Markup & Scripting:* HTML, CSS, \LaTeX{}, Python, shell (Bash, PowerShell) ---  *Development*: GNU/Linux (Debian), Git, GNU Emacs, Atlassian (Jira, Trello).
 ** Language Proficiency
 - *English*: advanced --- *Finnish*: advanced --- *Mandarin:* high-intermediate --- *Cantonese*: conversational.
