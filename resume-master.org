@@ -35,7 +35,7 @@ London-based X-standards content markup technologies professional and University
 ** Technical Training
 - 2024 \mytab *[[https://www.udemy.com/certificate/UC-11294ef2-5e24-498a-8d7b-0eca9fe72b29/][Practical Transformation Using XSLT and XPath]]*, G. Ken Holman/Udemy \hfill Online course [24 hrs.]
 ** Technical Tools
-- *XML:* XSLT, XPath, XQuery, Schematron, BaseX, oXygen, XProc --- *Markup & Scripting:* HTML, CSS, \LaTeX{}, Python, Bash, Batch/cmd.exe --- *Development*: GNU/Linux Debian, Git, GNU Emacs, Atlassian (Jira, Trello).
+- *XML:* XSLT, XQuery, Schematron, BaseX, oXygen, XProc --- *Markup & Scripting:* HTML, CSS, \LaTeX{}, Python, Bash, Batch/cmd.exe --- *Development*: GNU/Linux Debian, Git, GNU Emacs, Atlassian (Jira, Trello).
 ** Language Proficiency
 - *English*: advanced --- *Finnish*: advanced --- *Mandarin:* high-intermediate --- *Cantonese*: Basic.
 
