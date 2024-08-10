@@ -7,7 +7,7 @@
 @@latex:\pagestyle{fancy}@@
 
 #+begin_center
-Résumé \today{} --- [[mailto:ilmarikoria@posteo.net][ilmarikoria@posteo.net]] --- [[https://uk.linkedin.com/in/ilmari-koria-3151a5291][LinkedIn]] --- [[https://github.com/ilmari-koria/org-resume][GitHub]] --- @@latex:\chtex{華文姓名：}\ruby{\chtex{柯}}{Kē}\ruby{\chtex{萬}}{Wàn}\ruby{\chtex{里}}{lǐ}@@
+Résumé: \today{} --- [[mailto:ilmarikoria@posteo.net][ilmarikoria@posteo.net]] --- [[https://github.com/ilmari-koria/org-resume][GitHub]] --- [[https://www.linkedin.com/in/ilmari-koria-3151a5291/][LinkedIn ]] --- @@latex:\chtex{華文姓名：}\ruby{\chtex{柯}}{Kē}\ruby{\chtex{萬}}{Wàn}\ruby{\chtex{里}}{lǐ}@@
 #+end_center
 
 
