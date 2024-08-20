@@ -35,13 +35,12 @@
 \titleformat{\subsubsection}{\normalsize\bfseries}{0em}{0em}{}
 
 \titlespacing*{\section}{0em}{0em}{0em} %% left, above, below
-\titlespacing*{\subsection}{0em}{3em}{1em}
+\titlespacing*{\subsection}{0em}{3.5em}{1em}
 \titlespacing*{\subsubsection}{0em}{1.5em}{0em}
 
 \usepackage{enumitem}
 \renewcommand\labelitemi{}
 \renewcommand\labelitemii{\hfill$\vcenter{\hbox{\footnotesize{$\bullet$}}}$\hfill}
-
 \setlist[itemize,1]{before=\normalsize,itemsep=0em,topsep=0em,leftmargin=*,labelindent=0em,labelsep=0em}
 \setlist[itemize,2]{before=\normalsize,itemsep=0em,topsep=0em,leftmargin=*,labelindent=0em,labelsep=1em}
 
@@ -70,3 +69,12 @@ Public Key: \texttt{\graylink{https://ilmarikoria.xyz/static/ilmari-koria-public
 \renewcommand{\rubysep}{0}
 
 
+\usepackage[para,norule,bottom]{footmisc}
+%% below based on
+%% `https://tex.stackexchange.com/questions/389347/squeeze-space-between-footnote-mark-and-footnote-text-with-foot`
+\makeatletter
+\long\def\@makefntext#1{\leavevmode
+  \@makefnmark\nobreak
+  #1%
+}
+\makeatother
