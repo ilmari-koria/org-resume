@@ -1,0 +1,47 @@
+#+title: Ilmari Koria Cover Letter -- {{{time(%b %e %Y)}}}
+#+author: Ilmari Koria
+#+date: \today
+#+export_file_name: ilmari-koria-cover-letter.pdf
+#+options: title:t toc:nil date:t num:nil ^:{} todo:nil ':t ":t \n:nil
+
+#+latex_class: letter
+#+latex_header: \usepackage[a4paper]{geometry}
+#+latex_header: \usepackage[british]{babel}
+#+latex_header: \usepackage[T1]{fontenc}
+#+latex_header: \usepackage{lmodern}
+
+#+latex_header: \signature{Ilmari Koria}
+#+latex_header: \address{24 The Street\\Some Village\\Noshire\\AB1 2YZ}
+
+#+latex: \begin{letter}{Mrs Lorem Ipsum\\24 The Street\\Some Town\\Noshire\\AB1 2YZ}
+
+#+latex: \opening{Hi Lorem,}
+
+# Target word count: 160.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur sit
+amet eros at velit ullamcorper faucibus. Vivamus tincidunt, neque ac
+suscipit commodo, dolor orci tristique arcu, a posuere purus nisl ac
+velit. Nullam ac augue non ante malesuada faucibus. Cras feugiat eros
+nec urna hendrerit, a convallis justo suscipit. 
+
+Suspendisse potenti. Aenean auctor auctor nisl, a aliquam enim
+malesuada sit amet. Pellentesque lobortis metus ut odio tincidunt, in
+vulputate lorem convallis. Quisque id fermentum erat. Nullam dignissim
+erat eget ex sagittis, ut tincidunt mi iaculis. Mauris et urna nec
+mauris accumsan aliquet non non magna.
+
+Sed id neque a turpis laoreet ullamcorper. Fusce interdum, lorem in
+volutpat dapibus, magna ex efficitur enim, a facilisis orci enim id
+nisl. Nam euismod mi magna, ac vehicula odio viverra eu. Etiam vitae
+sollicitudin purus. Curabitur varius urna vitae tortor vestibulum
+aliquet. Praesent at magna nisi. Curabitur ac libero sit amet metus
+vehicula scelerisque. Integer nec efficitur nisl. Donec ullamcorper
+nunc sit amet sem congue, sed scelerisque justo gravida. 
+
+#+latex: \closing{Kind regards,}
+
+# #+latex: \ps{Sed id neque a turpis laoreet ullamcorper.}
+
+#+latex: \encl{Updated Resume}
+#+latex: \end{letter}
