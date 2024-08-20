@@ -7,41 +7,70 @@
 @@latex:\pagestyle{fancy}@@
 
 #+begin_center
-Résumé: \today{} --- [[mailto:ilmarikoria@posteo.net][ilmarikoria@posteo.net]] --- [[https://github.com/ilmari-koria/org-resume][GitHub]] --- @@latex:\chtex{華文姓名：}\ruby{\chtex{柯}}{Kē}\ruby{\chtex{萬}}{Wàn}\ruby{\chtex{里}}{lǐ}@@
+Résumé: \today{} --- [[mailto:ilmarikoria@posteo.net][ilmarikoria@posteo.net]] --- ~+44 (0) 77 462 75400~ --- London
 #+end_center
 
 
 ** About
-London-based X-standards content markup technologies professional and University of London graduate. Comprehensive spoken and written language competence and digital literacy, with concentration in free open-source tools and implementations. Proven communication skills, team working ability and leadership initiative in a range of administrative, service and volunteer roles.
+London-based X-standards content markup technologies professional and
+University of London graduate. Comprehensive spoken and written
+language competence and digital literacy, with concentration in free
+open-source tools and implementations. Proven communication skills,
+team working ability and leadership initiative delivering XML
+data-based solutions within the publishing industry.
 
 ** Experience
+# Basic structure as follows:
+# - Soft skill + task/problem + hard skill solution = result.
+# Percentage values are what the candidate estimates as the result or
+# effect. The idea is to demonstrate how one `qualitatively` gauges ones
+# impact in a numerical form. In this sense, they are not arbitrary.
+
 *** Bloomsbury Publishing Plc, Digital Development \hfill London
 - /Content Analyst/ (XML) \hfill Jul 2023 -- Present
-  - Quality assurance (QA), testing and management of platform XML content.
-  - Checking XML coded texts against source editions for structural and textual errors.
-  - Following automated and manual routines and checklists systematically in order to identify and rectify XML errors.
-  - Inputting and checking any required metadata and taxonomy indexing to aid discoverability of XML texts.
-  - Testing online content on Bloomsbury platforms to identify data/platform issues.
-  - Analysing content and contributing to mark-up guidelines.
-  - Managing workflow from conversion to upload for content sets on existing platforms.
-** Education
-- 2022 \mytab *National Chengchi University*, Mandarin Language Course (nine months via scholarship) \hfill Taipei
-- 2020 \mytab *King's College London*, Master of Arts in Digital Humanities \hfill London
-- 2019 \mytab *SOAS University of London*, Postgraduate Diploma \hfill London 
-- 2018 \mytab *University of Kent*, Bachelor of Arts with First Class Honours \hfill Canterbury
-** Leadership
- - 2019 \mytab *Student Society Founder and President*, SOAS University of London \hfill London
- - 2018 \mytab *Student Peer Mentor* and *Student Ambassador*, University of Kent \hfill Canterbury
+  - Excellent communication skills demonstrated by liaising with
+    sister team to automate XML editing process using XSLT and batch
+    scripts, resulting in 5% efficiency increase in delivering
+    (auto)-generated metadata to external stakeholders.
+  - Proven teamwork skills demonstrated by regularly updating team
+    Wiki with XQuery scripts to automate common XML data processes,
+    leading to 5% increase in team-wide productivity.
+  - Strong organisational skills evidenced by in-progress development
+    of content architecture solution for MathML equation markup on
+    company web platform, projected to increase platform accessibility
+    by 5%.
+  - Solid analytical skills demonstrated by consistently developing
+    internal XML schema enhancements, resulting in 5% reduction in
+    quality assurance testing time.
+  - Effective problem-solving skills evidenced by applying BaseX XML
+    editing knowledge for quality assurance testing and bug fixes,
+    reducing spending on XML reworks by external vendors by 5%.
+  - Good self-development skills demonstrated by 10 years of daily use
+    of GNU/Linux Debian, and associated technologies, resulting in
+    solid computing skills and the ability to efficiently learn new
+    technical tools.
+
+** Technical Tools and Language Skills
+- *XML:* XSLT, XQuery, Schematron --- *Markup & Scripting:* HTML, CSS,
+  \LaTeX{}, Bash, Batch/cmd.exe --- *Development*: BaseX
+  (NoSQL), oXygen, GNU/Linux Debian, Git (and GitHub), GNU Emacs, Atlassian (Jira,
+  Trello).
+- *English*: advanced --- *Finnish*: advanced --- *Mandarin:*
+  high-intermediate --- *Cantonese*: basic[fn:4].
+
 ** Technical Training
-- 2024 \mytab *[[https://www.udemy.com/certificate/UC-11294ef2-5e24-498a-8d7b-0eca9fe72b29/][Practical Transformation Using XSLT and XPath]]*, G. Ken Holman/Udemy \hfill Online course [24 hrs.]
-** Technical Tools
-- *XML:* XSLT, XQuery, Schematron, XProc --- *Markup & Scripting:* HTML, CSS, \LaTeX{}, Python, Bash, Batch/cmd.exe --- *Development*: BaseX (NoSQL), oXygen, GNU/Linux Debian, Git, GNU Emacs, Atlassian (Jira, Trello).
-** Language Proficiency
-- *English*: advanced --- *Finnish*: advanced --- *Mandarin:* high-intermediate --- *Cantonese*: basic.
+- 2024 \mytab [[https://www.udemy.com/certificate/UC-11294ef2-5e24-498a-8d7b-0eca9fe72b29/][Practical Transformation Using XSLT and XPath]], G. Ken
+    Holman/Udemy \hfill Online course (\ul{24 hrs.})
 
+** Education
+- *National Chengchi University*[fn:1], Three semesters of Mandarin language training \hfill Taipei
+- *King's College London*, Master of Arts in Digital Humanities \hfill London
+- *SOAS University of London*[fn:2], Postgraduate Diploma \hfill London
+- *University of Kent*[fn:3], Bachelor of Arts with First Class Honours \hfill Canterbury
 
-
-
-
-
+* Footnotes                                                        :noexport:
+[fn:4] Founder of `London Cantonese Language Meetup.'
+[fn:3] Acted as Student Peer Mentor and Student Ambassador.
+[fn:2] Acted as student society founder and president. 
+[fn:1] Recipient of RoC Ministry of Education scholarship (9 months).
 
