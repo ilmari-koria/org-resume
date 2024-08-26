@@ -3,12 +3,15 @@
 #+setupfile: resume-setup
 #+export_file_name: ilmari-koria-resume.pdf
 
+# ATS friendly formatting
+
 * Ilmari Koria
 @@latex:\pagestyle{fancy}@@
 
 #+begin_center
 Résumé: \today{} --- [[mailto:ilmarikoria@posteo.net][ilmarikoria@posteo.net]] --- London
 #+end_center
+
 
 
 ** About
@@ -26,8 +29,8 @@ data-driven solutions within academic publishing.
 # effect. The idea is to demonstrate how one `qualitatively` gauges ones
 # impact in a numerical form. In this sense, they are not arbitrary.
 
-*** Bloomsbury Publishing Plc, Digital Development \hfill London
-- /Content Analyst/ (XML) \hfill Jul 2023 -- Present
+*** Bloomsbury Publishing Plc, Digital Development, London
+- /Content Analyst/ (XML), Jul 2023 -- Present
   - Quality assurance (QA), testing and management of platform XML content.
   - Checking XML coded texts against source editions for structural and textual errors.
   - Following automated and manual routines and checklists systematically in order to identify and rectify XML errors.
@@ -37,25 +40,21 @@ data-driven solutions within academic publishing.
   - Managing workflow from conversion to upload for content sets on existing platforms.
 
 ** Education
-#+ATTR_LATEX: :environment tabularx :align lXr :width \textwidth
-| *National Chengchi University* | Three semesters of Mandarin language training | Taipei     |
-| *King's College London*        | Master of Arts in Digital Humanities          | London     |
-| *SOAS University of London*    | Postgraduate Diploma                          | London     |
-| *University of Kent*           | Bachelor of Arts with First Class Honours     | Canterbury |
+- *National Chengchi University*, Three semesters of Mandarin language training, Taipei     
+- *King's College London*, Master of Arts in Digital Humanities, London     
+- *SOAS University of London*, Postgraduate Diploma, London     
+- *University of Kent*, Bachelor of Arts with First Class Honours, Canterbury 
 
 ** Technical Training
-#+ATTR_LATEX: :environment tabularx :align Xlllr :width \textwidth
-| [[https://www.udemy.com/certificate/UC-11294ef2-5e24-498a-8d7b-0eca9fe72b29/][Practical Transformation Using XSLT and XPath]]         | 2024 | 24 hrs. | G. Ken Holman/Udemy  | Online course |
-| DHOxSS Applied Data Analysis for the Humanities       | 2019 | 25 hrs. | University of Oxford | Oxford        |
-| Introduction to Python: Data Analysis and Programming | 2019 | 25 hrs. | University of London | London        |
+#+latex: \bulletlist
+- /Practical Transformation Using XSLT and XPath/, 2024, 24 hrs., Crane Softwrights Ltd. (Online course)
+- /DHOxSS: Applied Data Analysis for the Humanities/, 2019, 25 hrs., University of Oxford        
+- /Introduction to Python: Data Analysis and Programming/, 2019, 25 hrs., University of London        
 
 ** Tools and Language Skills
-#+ATTR_LATEX: :environment tabularx :align lX :width \textwidth
-| *XML:*                | XSLT, XQuery, Schematron, DocBook, TEI                                                       |
-| *Markup & Scripting:* | HTML, CSS, \LaTeX{}, Bash, Batch/cmd.exe                                                     |
-| *Development:*        | BaseX (NoSQL), oXygen, GNU/Linux Debian, Git, GNU Emacs, Atlassian (Jira, Trello)            |
-|                       |                                                                                              |
-| *Languages*:          | *English*: advanced, *Finnish*: advanced, *Mandarin:* high-intermediate, *Cantonese*: basic. |
+#+latex: \nobulletlist
+- *XML:* XSLT, XQuery, Schematron, DocBook, TEI --- *Markup & Scripting:* HTML, CSS, \LaTeX{}, Bash, Batch/cmd.exe --- *Development:* BaseX (NoSQL), oXygen, GNU/Linux Debian, Git, GNU Emacs, Atlassian (Jira, Trello)            
+- *Languages*: *English*: advanced --- *Finnish*: advanced --- *Mandarin:* high-intermediate --- *Cantonese*: basic. 
 
 
 
